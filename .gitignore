@@ -1,0 +1,57 @@
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# API Keys and sensitive data
+keys/
+*.key
+*.pem
+*.env
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Model files (uncomment if needed)
+# *.pkl
+# *.h5
+# *.pt
+# *.pth
+# *.onnx
+
+# Data files (uncomment if needed)
+# *.csv
+# *.json
+# *.parquet
+
+# Logs
+*.log
+logs/
