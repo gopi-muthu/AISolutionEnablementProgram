@@ -25,8 +25,7 @@ build/
 keys/
 *.key
 *.pem
-*.env
-.env
+.env*
 
 # IDE and editor files
 .vscode/
